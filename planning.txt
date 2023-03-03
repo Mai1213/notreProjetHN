@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 planning de travail
+=======
+
+>>>>>>> editBranch
