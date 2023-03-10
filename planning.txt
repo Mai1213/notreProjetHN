@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-planning de travail
-=======
-
->>>>>>> editBranch
+rien2tout
